@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Timetable_System</RootNamespace>
+    <AssemblyName>Timetable System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\Users\Achu Promise\Documents\factual programming practicals\AIMT_FACTUAL_PROG_AND_HCI\PcWonderland.com_Guna_UI_Framework_Ultimate_2\Guna UI Framework Ultimate v2.0.0.1 Lib-Master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\Users\Achu Promise\Documents\factual programming practicals\AIMT_FACTUAL_PROG_AND_HCI\PcWonderland.com_Guna_UI_Framework_Ultimate_2\Guna UI Framework Ultimate v2.0.0.1 Lib-Master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="choseValues.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="choseValues.Designer.cs">
+      <DependentUpon>choseValues.cs</DependentUpon>
+    </Compile>
+    <Compile Include="course.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="course.Designer.cs">
+      <DependentUpon>course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="createTimetable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createTimetable.Designer.cs">
+      <DependentUpon>createTimetable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboad.Designer.cs">
+      <DependentUpon>Dashboad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hall.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="hall.Designer.cs">
+      <DependentUpon>hall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lecture.cs" />
+    <Compile Include="lecturer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="lecturer.Designer.cs">
+      <DependentUpon>lecturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="managetimetable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="managetimetable.Designer.cs">
+      <DependentUpon>managetimetable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="specialty.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="specialty.Designer.cs">
+      <DependentUpon>specialty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timetableview.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="timetableview.Designer.cs">
+      <DependentUpon>timetableview.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="choseValues.resx">
+      <DependentUpon>choseValues.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="course.resx">
+      <DependentUpon>course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createTimetable.resx">
+      <DependentUpon>createTimetable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboad.resx">
+      <DependentUpon>Dashboad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hall.resx">
+      <DependentUpon>hall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lecturer.resx">
+      <DependentUpon>lecturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="managetimetable.fr.resx">
+      <DependentUpon>managetimetable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="managetimetable.resx">
+      <DependentUpon>managetimetable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="specialty.resx">
+      <DependentUpon>specialty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timetableview.resx">
+      <DependentUpon>timetableview.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Timetable System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|C:\\Timetable System\\timetable system\\timetableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|solutionrelative:timetable system\\timetableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|C:\\Timetable System\\timetable system\\managetimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|solutionrelative:timetable system\\managetimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|c:\\timetable system\\timetable system\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|solutionrelative:timetable system\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|C:\\Timetable System\\timetable system\\createtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|solutionrelative:timetable system\\createtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|C:\\Timetable System\\timetable system\\createtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|solutionrelative:timetable system\\createtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|C:\\Timetable System\\timetable system\\timetableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|solutionrelative:timetable system\\timetableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|C:\\Timetable System\\timetable system\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|solutionrelative:timetable system\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|C:\\Timetable System\\timetable system\\managetimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|solutionrelative:timetable system\\managetimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|C:\\Timetable System\\timetable system\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|solutionrelative:timetable system\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|C:\\Timetable System\\timetable system\\chosevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E27BB7-EBDC-4787-AB61-2AF6F6285AA8}|Timetable System\\Timetable System.csproj|solutionrelative:timetable system\\chosevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "timetableview.cs",
+              "DocumentMoniker": "C:\\Timetable System\\Timetable System\\timetableview.cs",
+              "RelativeDocumentMoniker": "Timetable System\\timetableview.cs",
+              "ToolTip": "C:\\Timetable System\\Timetable System\\timetableview.cs",
+              "RelativeToolTip": "Timetable System\\timetableview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:50:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "timetableview.cs [Design]",
+              "DocumentMoniker": "C:\\Timetable System\\Timetable System\\timetableview.cs",
+              "RelativeDocumentMoniker": "Timetable System\\timetableview.cs",
+              "ToolTip": "C:\\Timetable System\\Timetable System\\timetableview.cs [Design]",
+              "RelativeToolTip": "Timetable System\\timetableview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:06:10.649Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "managetimetable.cs",
+              "DocumentMoniker": "C:\\Timetable System\\Timetable System\\managetimetable.cs",
+              "RelativeDocumentMoniker": "Timetable System\\managetimetable.cs",
+              "ToolTip": "C:\\Timetable System\\Timetable System\\managetimetable.cs",
+              "RelativeToolTip": "Timetable System\\managetimetable.cs",
+              "ViewState": "AgIAADUAAAAANDMzMzMLwEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:34:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "createTimetable.cs",
+              "DocumentMoniker": "C:\\Timetable System\\Timetable System\\createTimetable.cs",
+              "RelativeDocumentMoniker": "Timetable System\\createTimetable.cs",
+              "ToolTip": "C:\\Timetable System\\Timetable System\\createTimetable.cs",
+              "RelativeToolTip": "Timetable System\\createTimetable.cs",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAmwIEBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:34:20.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "createTimetable.cs [Design]",
+              "DocumentMoniker": "C:\\Timetable System\\Timetable System\\createTimetable.cs",
+              "RelativeDocumentMoniker": "Timetable System\\createTimetable.cs",
+              "ToolTip": "C:\\Timetable System\\Timetable System\\createTimetable.cs [Design]",
+              "RelativeToolTip": "Timetable System\\createTimetable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:34:17.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lecture.cs",
+              "DocumentMoniker": "C:\\Timetable System\\Timetable System\\Lecture.cs",
+              "RelativeDocumentMoniker": "Timetable System\\Lecture.cs",
+              "ToolTip": "C:\\Timetable System\\Timetable System\\Lecture.cs",
+              "RelativeToolTip": "Timetable System\\Lecture.cs",
+              "ViewState": "AgIAABcAAAAAJzMzMzMEwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:23:11.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "managetimetable.cs [Design]",
+              "DocumentMoniker": "C:\\Timetable System\\Timetable System\\managetimetable.cs",
+              "RelativeDocumentMoniker": "Timetable System\\managetimetable.cs",
+              "ToolTip": "C:\\Timetable System\\Timetable System\\managetimetable.cs [Design]",
+              "RelativeToolTip": "Timetable System\\managetimetable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:08:15.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lecturer.cs",
+              "DocumentMoniker": "C:\\Timetable System\\Timetable System\\lecturer.cs",
+              "RelativeDocumentMoniker": "Timetable System\\lecturer.cs",
+              "ToolTip": "C:\\Timetable System\\Timetable System\\lecturer.cs",
+              "RelativeToolTip": "Timetable System\\lecturer.cs",
+              "ViewState": "AgIAAEkAAAAALjMzM7MXwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:41:13.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lecturer.cs [Design]",
+              "DocumentMoniker": "C:\\Timetable System\\Timetable System\\lecturer.cs",
+              "RelativeDocumentMoniker": "Timetable System\\lecturer.cs",
+              "ToolTip": "C:\\Timetable System\\Timetable System\\lecturer.cs [Design]",
+              "RelativeToolTip": "Timetable System\\lecturer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:41:11.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "choseValues.cs",
+              "DocumentMoniker": "C:\\Timetable System\\Timetable System\\choseValues.cs",
+              "RelativeDocumentMoniker": "Timetable System\\choseValues.cs",
+              "ToolTip": "C:\\Timetable System\\Timetable System\\choseValues.cs",
+              "RelativeToolTip": "Timetable System\\choseValues.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA7wDQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:09:20.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

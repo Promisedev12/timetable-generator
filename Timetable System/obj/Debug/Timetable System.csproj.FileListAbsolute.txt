@@ -1,0 +1,22 @@
+C:\Timetable System\Timetable System\bin\Debug\Timetable System.exe.config
+C:\Timetable System\Timetable System\bin\Debug\Timetable System.exe
+C:\Timetable System\Timetable System\bin\Debug\Timetable System.pdb
+C:\Timetable System\Timetable System\obj\Debug\Timetable System.csprojResolveAssemblyReference.cache
+C:\Timetable System\Timetable System\obj\Debug\Timetable_System.Dashboad.resources
+C:\Timetable System\Timetable System\obj\Debug\Timetable_System.Properties.Resources.resources
+C:\Timetable System\Timetable System\obj\Debug\Timetable System.csproj.GenerateResource.Cache
+C:\Timetable System\Timetable System\obj\Debug\Timetable System.exe
+C:\Timetable System\Timetable System\obj\Debug\Timetable System.pdb
+C:\Timetable System\Timetable System\bin\Debug\Guna.UI2.dll
+C:\Timetable System\Timetable System\bin\Debug\Guna.UI.dll
+C:\Timetable System\Timetable System\obj\Debug\Timetable_System.lecturer.resources
+C:\Timetable System\Timetable System\obj\Debug\Timetable_System.course.resources
+C:\Timetable System\Timetable System\obj\Debug\Timetable_System.hall.resources
+C:\Timetable System\Timetable System\obj\Debug\Timetable_System.specialty.resources
+C:\Timetable System\Timetable System\obj\Debug\Timetable_System.managetimetable.resources
+C:\Timetable System\Timetable System\obj\Debug\Timetable_System.timetableview.resources
+C:\Timetable System\Timetable System\bin\Debug\fr\Timetable System.resources.dll
+C:\Timetable System\Timetable System\obj\Debug\Timetable_System.managetimetable.fr.resources
+C:\Timetable System\Timetable System\obj\Debug\fr\Timetable System.resources.dll
+C:\Timetable System\Timetable System\obj\Debug\Timetable_System.createTimetable.resources
+C:\Timetable System\Timetable System\obj\Debug\Timetable_System.choseValues.resources
